@@ -1,0 +1,100 @@
+<mxfile host="app.diagrams.net" modified="2023-07-12T06:57:07.594Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.58" etag="Bf-v-dEU_CjrNlR_B1dM" version="21.6.1" type="github">
+  <diagram name="Page-1" id="4RESn43zDD5BvgoGNr9Z">
+    <mxGraphModel dx="878" dy="534" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qkJXBlypJSWEJtc60Umz-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-22" target="qkJXBlypJSWEJtc60Umz-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-22" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="13.75" y="285" width="442.5" height="505" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-38" target="qkJXBlypJSWEJtc60Umz-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-38" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="390" width="410" height="310" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-1" target="qkJXBlypJSWEJtc60Umz-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-1" value="Start at scheduled Time" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="177.5" y="40" width="115" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.209;exitY=1.043;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-20" target="qkJXBlypJSWEJtc60Umz-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-20" value="Get all items for the current issue number&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="175" y="300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-23" target="qkJXBlypJSWEJtc60Umz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-23" value="Append only data which are changed in temp variable &#39;dataLines&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="305" y="430" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-24" target="qkJXBlypJSWEJtc60Umz-33">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-24" value="Append all data to temp variable &#39;dataLines&#39;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="550" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-25" target="qkJXBlypJSWEJtc60Umz-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-27" value="True" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qkJXBlypJSWEJtc60Umz-26">
+          <mxGeometry x="-0.136" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-28" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-25" target="qkJXBlypJSWEJtc60Umz-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-29" value="False" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="qkJXBlypJSWEJtc60Umz-28">
+          <mxGeometry x="-0.3511" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-25" value="Check first item with current item" style="rhombus;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="120" y="410" width="145" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-33" value="Update isDeleted = &#39;True&#39; in&amp;nbsp; &#39;DataUpdates&#39; table for current item row" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="117.5" y="630" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-37" value="Append &#39;dataLines&#39; data into &quot;finalData&quot;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="172.5" y="720" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-43" target="qkJXBlypJSWEJtc60Umz-57">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="390" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-43" value="Format final result using inline js code for email" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;opacity=80;" vertex="1" parent="1">
+          <mxGeometry x="175" y="810" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-57" value="Send Email&lt;br&gt;&amp;nbsp;(END)" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="330" y="810" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-60" value="for each issue number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="40" y="285" width="132.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-61" value="for each Item&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="63.75" y="390" width="95" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-62" target="qkJXBlypJSWEJtc60Umz-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-62" value="Extract Unique Issue Numbers" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="175" y="200" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-65" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="qkJXBlypJSWEJtc60Umz-63" target="qkJXBlypJSWEJtc60Umz-62">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="qkJXBlypJSWEJtc60Umz-63" value="Get all Issues that are not sent earlier&lt;br&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="140" y="110" width="190" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
